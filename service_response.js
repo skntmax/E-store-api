@@ -20,4 +20,4 @@ const failed_service_response=(model)=>{
  }
 
 
- module.exports ={success_service_response ,failed_service_response}
+ export {success_service_response ,failed_service_response}
